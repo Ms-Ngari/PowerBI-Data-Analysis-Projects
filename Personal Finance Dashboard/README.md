@@ -14,4 +14,4 @@ In this project, I have created a dashboard for personal finance to track income
 - Most savings are invested in mutual funds.
 
 ### Dashboard
-![Image alt text](Personal%20Finance%20Dashboard/Personal%20Finance%20Dashboard.png)
+![Image alt text](personal_finance_dashboard.png)
